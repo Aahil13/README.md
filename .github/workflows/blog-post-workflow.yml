@@ -11,7 +11,7 @@ jobs:
       - name: "Fetching Repository Content"
         uses: actions/checkout@main
         
-     - name: "Blog Updates"
-        uses: "gautamkrishnar/blog-post-workflow@master"
+      - name: "Blog updater"
+        uses: "varunsridharan/action-hashnode-blog@main"
         with:
           feed_list: 'https://dev.to/aahil13, https://medium.com/@onyeanunaprince, https://aahil13.hashnode.dev/'
