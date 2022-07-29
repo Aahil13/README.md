@@ -19,7 +19,9 @@
 
 - ⚡ Fun fact **I love Anime, hip-hop, and old school music**
 
-### Blogs posts
+---
+
+### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -47,9 +49,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aahil13&" alt="aahil13" /></p>
 
----
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
