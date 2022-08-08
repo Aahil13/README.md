@@ -23,7 +23,7 @@
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
-- [Big O Notation](https://dev.to/aahil13/big-o-notation-56lg)
+- [AN OUTSTANDING EXPOSITION OF THE &quot;Big O&quot; NOTATION](https://dev.to/aahil13/big-o-notation-56lg)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
