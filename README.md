@@ -26,7 +26,6 @@
 
 - ⚡ Fun fact **I love Anime, hip-hop, and old school music**
 
----
 
 ## :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
@@ -36,10 +35,6 @@
 - [A Beginner&#39;s Guide to Tailwind CSS](https://dev.to/aahil13/a-beginners-guide-to-tailwind-css-81f)
 <!-- BLOG-POST-LIST:END -->
 
-
-<hr>
-<br>
-
 ## 🔗 Connect with me 😊
 
 <div align="center">
@@ -48,10 +43,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/onyeanunae)
 
 </div>
-
-
-<hr>
-
 
 ## 🛠 DevOps Tools
 
