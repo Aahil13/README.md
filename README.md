@@ -28,7 +28,7 @@
 
 ---
 
-## :writing_hand Blog Posts :
+## :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Deploying a Web Server with AWS: A Hands-On Approach](https://dev.to/aahil13/deploying-a-web-server-with-aws-a-hands-on-approach-1pmf)
 - [Traverse the Linux CLI - Debian distribution](https://dev.to/aahil13/traverse-the-linux-cli-debian-distribution-49cn)
@@ -51,9 +51,7 @@
 
 
 <hr>
-<br>
 
-<br>
 
 ## 🛠 DevOps Tools
 
