@@ -27,7 +27,7 @@
 - ⚡ Fun fact **I love Anime, hip-hop, and old school music**
 
 
-## :writing_hand: Blog Posts :
+## :writing_hand: Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Deploying a Web Server with AWS: A Hands-On Approach](https://dev.to/aahil13/deploying-a-web-server-with-aws-a-hands-on-approach-1pmf)
 - [Traverse the Linux CLI - Debian distribution](https://dev.to/aahil13/traverse-the-linux-cli-debian-distribution-49cn)
@@ -35,7 +35,7 @@
 - [A Beginner&#39;s Guide to Tailwind CSS](https://dev.to/aahil13/a-beginners-guide-to-tailwind-css-81f)
 <!-- BLOG-POST-LIST:END -->
 
-## 🔗 Connect with me 😊
+## 🔗 Connect with me 
 
 <div align="center">
 
