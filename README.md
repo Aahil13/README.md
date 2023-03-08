@@ -46,6 +46,8 @@
 
 ## 🛠 DevOps Tools
 
+<div align="center">
+
 Name | Badges
 --- | --- 
 **Languages**  |  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -60,7 +62,7 @@ Name | Badges
 **Monitoring and Logging**   | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
 **Cloud Computing** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-fff?style=for-the-badge&logo=Google%20Cloud&logoColor=red) ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230175C2.svg?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white)
 
-</p> 
+</div> 
 
 <br>
 
