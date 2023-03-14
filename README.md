@@ -29,10 +29,10 @@
 
 ## :writing_hand: Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Node.js for Ecommerce: Pros and Cons](https://dev.to/medusajs/using-nodejs-for-ecommerce-pros-and-cons-25cl)
 - [Deploying a Web Server with AWS: A Hands-On Approach](https://dev.to/aahil13/deploying-a-web-server-with-aws-a-hands-on-approach-1pmf)
 - [Traverse the Linux CLI - Debian distribution](https://dev.to/aahil13/traverse-the-linux-cli-debian-distribution-49cn)
 - [Four Tips for Your DevRel Success.](https://dev.to/aahil13/four-tips-for-your-devrel-success-2ahi)
-- [A Beginner&#39;s Guide to Tailwind CSS](https://dev.to/aahil13/a-beginners-guide-to-tailwind-css-81f)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Connect with me 
