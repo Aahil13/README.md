@@ -1,3 +1,5 @@
+<img align= "center" alt="Cover image" src="/images/cover image.JPG">
+
 <h1 align="center">Aahil, theCr3ator 🛠 + 📝</h1>
 <h3 align="center">
 
