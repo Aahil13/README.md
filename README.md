@@ -1,4 +1,4 @@
-<img align= "center" alt="Cover image" src="/images/background.JPG">
+![Group 7](https://user-images.githubusercontent.com/63567230/236579101-20d50cd3-970b-4d80-87f5-f9c464f0b172.png)
 
 <h1 align="center">Aahil, theCr3ator 🛠 + 📝</h1>
 <h3 align="center">
