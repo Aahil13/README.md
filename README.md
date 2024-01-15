@@ -66,11 +66,3 @@ Name | Badges
 
 </div> 
 
-<br>
-
-<div align="center">
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aahil13&" alt="aahil13" /></p>
-
-</div>
-
