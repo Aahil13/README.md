@@ -31,10 +31,10 @@
 
 ## :writing_hand: Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Containerize an Application with Docker](https://dev.to/aahil13/how-to-containerize-an-application-with-docker-3i8m)
 - [Avoiding DevOps tool hell](https://dev.to/aahil13/avoiding-devops-tool-hell-5032)
 - [Understanding Docker Architecture: A Beginner&#39;s Guide to How Docker Works](https://dev.to/everythingdevops/understanding-docker-architecture-a-beginners-guide-to-how-docker-works-37a9)
 - [Using Node.js for Ecommerce: Pros and Cons](https://dev.to/medusajs/using-nodejs-for-ecommerce-pros-and-cons-25cl)
-- [Deploying a Web Server with AWS: A Hands-On Approach](https://dev.to/aahil13/deploying-a-web-server-with-aws-a-hands-on-approach-1pmf)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Connect with me 
