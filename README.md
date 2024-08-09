@@ -31,10 +31,10 @@
 
 ## :writing_hand: Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Multi-Cluster Deployment in Kubernetes](https://dev.to/everythingdevops/introduction-to-multi-cluster-deployment-in-kubernetes-3ak3)
 - [Monitoring, Observability, and Telemetry Explained](https://dev.to/everythingdevops/monitoring-observability-and-telemetry-explained-220)
 - [How to Setup a Kubernetes Cluster with Minikube](https://dev.to/aahil13/how-to-setup-a-kubernetes-cluster-with-minikube-36j9)
 - [How to Containerize an Application with Docker](https://dev.to/aahil13/how-to-containerize-an-application-with-docker-3i8m)
-- [Avoiding DevOps tool hell](https://dev.to/aahil13/avoiding-devops-tool-hell-5032)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔗 Connect with me 
